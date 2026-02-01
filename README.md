@@ -1,4 +1,4 @@
-# 🩺 AI Healthcare & Wellness Dashboard
+# 🩺 Integrated Health Analytics Dashboard
 An AI-powered healthcare analytics and assistance system developed for the AI Innovation Challenge 2026 under the Healthcare & Wellness Technology theme.
 This project provides symptom guidance, lifestyle monitoring, community health analysis, and disease risk prediction using machine learning.
 
